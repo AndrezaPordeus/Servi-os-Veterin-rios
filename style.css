@@ -3,7 +3,6 @@
 *{
     margin: 0;
     padding: 0;
-
 }
 
 body {
@@ -11,7 +10,6 @@ body {
     box-sizing: border-box;
     background-color: rgb(129, 162, 223);
     color: #050005;
-    
 }
 
 .container {
@@ -19,7 +17,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .apresentacao__conteudo {
@@ -27,7 +24,6 @@ body {
     display: flex;
     flex-direction: column;
     gap: 10px;
-
 }
 
 .titulo {
